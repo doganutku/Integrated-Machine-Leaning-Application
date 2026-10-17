@@ -1,0 +1,15 @@
+Doğrusal Regresyon | MSE: 43795.59
+Doğrusal Regresyon | R^2: 0.911
+Ridge | MSE: 43846.33
+Ridge | R^2: 0.911
+PCR (3 bileşen) | MSE: 138874.36
+PCR (3 bileşen) | R^2: 0.719
+PLS (3 bileşen) | MSE: 50872.84
+PLS (3 bileşen) | R^2: 0.897
+MLP | MSE: 28551.11
+MLP | R^2: 0.942
+K-Means | Küme Sayısı: 5
+K-Means | Silhouette: 0.715
+SimpleRNN | Test Accuracy: 0.7776
+SimpleRNN | Test Accuracy: 0.8301
+CNN | Test Accuracy: 0.8946
